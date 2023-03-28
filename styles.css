@@ -1,4 +1,3 @@
-
 body{
     filter: invert();
 }
@@ -12,4 +11,8 @@ body{
 
 .dmd{
     background-color: blue;
+}
+
+.nastepna{
+    color: aquamarine;
 }
