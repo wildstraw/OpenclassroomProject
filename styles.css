@@ -1,5 +1,15 @@
 
+body{
+    filter: invert();
+}
 
-.pull_req{
-    background-color: aliceblue;
+.tst{
+    color: brown;
+    background-color: blanchedalmond;
+}.classe{
+    color: aquamarine ;
+}
+
+.dmd{
+    background-color: blue;
 }
