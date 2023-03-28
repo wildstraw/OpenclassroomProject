@@ -1,3 +1,7 @@
+body{
+    filter: invert();
+}
+
 .tst{
     color: brown;
     background-color: blanchedalmond;
